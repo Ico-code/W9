@@ -1,0 +1,9 @@
+.image-bg-white {
+  transition: 0.2s ease;
+}
+.image-bg-white:hover {
+  background-color: white;
+}
+img {
+  max-width: 100%;
+}
